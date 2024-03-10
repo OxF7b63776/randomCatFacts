@@ -1,6 +1,3 @@
-Качаем аккаунты Github для Gitcoin Passport
-
-https://t.me/ponquitter
 
 1. Форкаем этот репозиторий.
 
